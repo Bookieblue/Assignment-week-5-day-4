@@ -1,0 +1,177 @@
+body{
+    
+    padding:0px;
+    margin: auto;
+    width:30%;
+    font-family:Arial, Helvetica, sans-serif;
+    justify-items: center;
+    align-content: center;
+}
+.main-conatiner1{
+    background-color: #FCEBEB;
+    Width:500px;
+    height:258px;
+    box-shadow: 3px 3px 3px 0.5px  rgb(216, 213, 213);
+   
+}
+
+.logo-box{
+    position: relative;
+    top:25px;
+    right:-20px;
+}
+
+.title-card{
+
+   
+    position:relative;
+    right:-310px;
+    bottom:170px;
+    color:#FF1515;
+    font-weight: bold;
+    
+
+}
+
+.card-amount{
+
+    position:relative;
+    right:-330px;
+    bottom:145px;
+    color:#FF1515; 
+    font-weight: bold;
+    font-size:18px;
+}
+
+.card-contact{
+   position:relative;
+   right:-390px;
+    bottom:135px;
+   font-weight:Bold;
+   font-size:14px;
+}
+
+.card-contact img{
+    position:relative;
+    bottom:-31px;
+    right:25px;
+}
+
+.card-website{
+     background-color: #FF1515;
+    color: white;
+     height:20px;
+     text-align: center;
+     padding-top:5px;
+     padding-bottom:5px;
+     font-size:16px;
+     position:relative;
+     bottom:148px;
+
+   
+}
+
+.main-container2{
+    background-color:white;
+    Width:500px;
+    height:258px;
+    line-height:6px;
+    box-shadow: 3px 3px 3px 0.5px rgb(216, 213, 213);
+    border: 0.2px solid rgb(216, 213, 213);
+
+    
+}
+
+
+
+
+.white-box{
+   background-color:white;
+   height: 32px;
+   width: 250px; 
+   position:relative;
+   top:-23px;
+   right:-100px;
+   z-index: 1;
+}
+
+.rectangular-box{
+
+    border-right: 40px solid transparent;
+    border-top:50px solid #32A2E1 ;
+    width:350px;
+    height:0px; 
+    color: red;
+    position:relative;
+    top:15px;
+    right:-30px; 
+}
+
+.rectangular-box img{
+        width:45px;
+        height:40px;
+        position:relative;
+        right:-385px;
+        top:-85px;
+}
+    
+
+.rectangular-box h3{
+    position:relative;
+    left:20px;
+    top:-40px;
+    color:white;
+}
+
+.instruction-text{
+
+    text-decoration:underline;
+    text-align:center;
+    position: relative;
+    top:-15px;
+    
+    }
+    
+    
+    .dial-instruction{
+    text-align:center;
+    position: relative;
+    top:-4px;
+    font-size:18;
+    
+    
+    }
+
+.lower-container{
+
+    position: relative;
+    top:-5px;
+
+    
+   
+}
+
+.lower-container img{
+    position:relative;
+    bottom:-6px;
+    right: -380px;
+    
+     
+} 
+
+.fig1{
+    position:absolute;
+    bottom:22px;
+    left: 25px;
+    font-size:12px;
+}
+
+
+.fig2{
+    position:absolute;
+    bottom:-2px;
+    left: 25px;
+    font-size:12px;
+}
+
+
